@@ -1,6 +1,6 @@
 README
 ============================
-This is the source code of our paper.
+This is the source code of our paper *Each Snapshot to Each Space: Space Adaptation for Temporal Knowledge Graph Completion* published in ISWC2022.
 
 ## Dataset:
 * The links of the original datasets ICEWS14 and ICEWS05-15 can be found from paper: [Learning Sequence Encoder for Temporal Knowledge Graph Completion](https://github.com/nle-ml/mmkb).
